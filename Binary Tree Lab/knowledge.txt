@@ -1,0 +1,27 @@
+Animal
+Land Animal
+large
+elephant
+$
+$
+pointy ears
+cat
+$
+$
+Dog
+$
+$
+Dolphin
+$
+$
+Object
+Laptop
+$
+$
+Female Performer
+Taylor Swift
+$
+$
+Barack Obama
+$
+$
